@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>News Flash</title>
+
+		<style media="screen" type="text/css">
+
+            body {
+                 background-image:url('http://static.profitclicking.com/images/newsflash_bg.jpg');
+                background-repeat:no-repeat;
+                background-position:center top;
+                background-color:#0A102D;
+                height:930px;
+                font-size:14px;
+                font-family:Arial, Helvetica, sans-serif;
+				line-height:1.6;
+				color:#333333;
+            }
+			.top_frame {
+                 background-image:url('http://static.profitclicking.com/images/newsflash_bg_front1_top.png') ;
+				background-repeat:no-repeat;
+				width:670px;
+				min-height:315px;
+                margin-left: auto;
+                margin-right: auto;
+				margin-top:40px;
+				margin-bottom:0;
+			}
+			.repeat_frame{
+                 background-image:url('http://static.profitclicking.com/images/newsflash_bg_front1_repeat.png');
+                margin-left: auto;
+                margin-right: auto;
+				background-repeat:repeat-y;
+				width:670px;
+				min-height:500px;
+				margin-top:0;
+				margin-bottom:0;
+				text-align:left;
+				position:relative;
+			}
+			.bottom_frame{
+                 background-image:url('http://static.profitclicking.com/images/newsflash_bg_front1_bottom.png');
+                margin-left: auto;
+                margin-right: auto;
+				width:670px;
+				min-height:105px;
+			}
+			.bottom_logo{
+				min-height:80px;
+                 background-image:url('http://static.profitclicking.com/images/bottomlogo.png');
+				background-repeat:no-repeat;
+                margin-left: auto;
+                margin-right: auto;
+				width:670px;
+				text-align:left;
+				margin-top:20px;
+			}
+			.content_title {
+				font-size: 53px;
+				font-weight: bold;
+				color: #0075BD;
+				text-shadow: rgba(19, 18, 19, 0.84) 2px 2px 3px;
+				position: relative;
+				padding-top:200px;
+                text-align: center;
+				text-transform:uppercase;
+			}
+			.textwrapper{
+				text-align:left;
+				margin:80px;
+				margin-top:0;
+				margin-bottom:0;
+			}
+
+			p {
+                margin:0px;
+                padding-top:15px;
+                text-align:justify;
+                text-justify:auto;
+			}
+
+			h1 {
+			    margin:0px;
+			}
+
+            h2 {
+                margin:0px;
+                text-align:center;
+            }
+            a {
+                text-decoration: none;
+                font-weight: bold;
+                color: #1C94C4;
+            }
+
+            .a:link {
+                text-decoration: none;
+                font-weight: bold;
+                color: #1C94C4;
+            }
+
+            a:visited {
+                text-decoration: none;
+                font-weight: bold;
+                color: #1C94C4;
+            }
+
+            a:hover {
+                text-decoration: underline;
+                font-weight: bold;
+                color: #AE332E;
+            }
+        </style>
+
+        <link rel="stylesheet" type="text/css" href="http://static.profitclicking.com/css/pc/announcements.css" />
+<link rel="stylesheet" type="text/css" href="http://static.profitclicking.com/css/pc/messagebox_jquery-ui-1.8.23.custom.css" />
+        <link rel="shortcut icon" href="http://static.profitclicking.com/favicon.ico" />
+    </head>
+
+    <body>
+
+		<div class="top_frame">
+				<div class="content_title">News Flash</div>
+		</div>
+			<div class="repeat_frame">
+				<div class="textwrapper">
+				    <div class="wrapper">
+        <div class="letter">
+            <script type="text/javascript" src="http://static.profitclicking.com/js/pc/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="http://static.profitclicking.com/js/pc/jquery-ui-1.8.6.custom.min.js"></script>
+<script type="text/javascript" src="http://static.profitclicking.com/js/pc/announcements.js"></script>
+                    </head>
+    <body>
+        <script type="text/javascript">
+    $(function(){
+
+        $(".navigation2").find("a").click(function(){
+            $(this).parent().siblings("li").removeClass("current");
+            $(this).parent().addClass("current");
+        });
+
+    });
+</script>		
+			
+
+  <!-- /MESSAGEWALL-->
+
+
+    <div style="width:587px; height:648px; overflow-x:hidden;overflow-y:auto;margin-left: -40px;">
+
+        <div class="messagebox">
+
+            <p><strong>WELCOME to Profit Clicking !</strong></p>
+
+<p><strong>10/19/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=75" target="_blank">Saturday Spotlight</a></p>
+
+<p><strong>10/19/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=74" target="_blank">Member Update</a> ... Power Hour with DOC </p>
+
+<p><strong>10/19/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=73" target="_blank">Fun Friday </a></p>
+
+<p><strong>10/18/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=72" target="_blank">Member Update</a> ... Thursday Call Tonight!  Don't Miss It! </p>
+
+<p><strong>10/18/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=71" target="_blank">Thursday Thoughts </a></p>
+
+<p><strong>10/17/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=70" target="_blank">Member Update</a> ... Did You Know There are 5 Ways to Generate Income at Profit Clicking? </p>
+
+
+
+<br />
+
+<!--  accordion1 set start -->
+
+<div id="accordion100">
+
+<!-- ***** Member Update Archive ***** -->
+
+<h3><a href="#">Member Update Archive</a></h3>
+<div>
+
+<p class="messageboxsubtitle">Archive of Member Notices</p>
+
+<p><strong>10/17/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=69" target="_blank">Wednesday Wisdom </a></p>
+
+<p><strong>10/16/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=68" target="_blank">Member Update</a> ... Proﬁt Clicking is your answer! </p>
+
+<p><strong>10/16/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=67" target="_blank">Tuesday Tips </a></p>
+
+<p><strong>10/15/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=66" target="_blank">Member Update</a> ... Profit Clicking’s Top Money Makers </p>
+
+<p><strong>10/15/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=65" target="_blank">Motivational Monday </a></p>
+
+<p><strong>10/14/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=64" target="_blank">Member Update</a> ... Social Media Special Edition </p>
+
+<p><strong>10/14/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=63" target="_blank">Sunday Strategies </a></p>
+
+<p><strong>10/13/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=62" target="_blank">Member Update</a> ... Members Still Talking about DOC's Conference Call </p>
+
+<p><strong>10/13/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=61" target="_blank">Saturday Spotlight </a></p>
+
+<p><strong>10/12/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=60" target="_blank">Member Update</a> ... DOC Wows the Crowd! </p>
+
+<p><strong>10/12/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=59" target="_blank">Friday Fun </a></p>
+
+<p><strong>10/11/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=58" target="_blank">Member Update</a> ... Thursday Call Tonight!  Don't Miss It! </p>
+
+<p><strong>10/11/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=57" target="_blank">Thursday Thoughts </a></p>
+
+<p><strong>10/10/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=56" target="_blank">Member Update</a> ... Mark Your Calendars!  Thursday Calls are Back! </p>
+
+<p><strong>10/10/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=55" target="_blank">Wednesday Wisdom </a></p>
+
+<p><strong>10/09/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=54" target="_blank">Member Update</a> ... Clicking For Cash </p>
+
+<p><strong>10/09/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=53" target="_blank">Tuesday Tips </a></p>
+
+<p><strong>10/08/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=52" target="_blank">Member Update</a> ... Doc Speaks about Profit Clicking</p>
+
+<p><strong>10/08/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=51" target="_blank">Motivational Monday </a></p>
+
+<p><strong>10/07/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=50" target="_blank">Member Update</a> ... Frederick Mann Speaks, Members Listen</p>
+
+<p><strong>10/07/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=49" target="_blank">Sunday Strategies </a></p>
+
+<p><strong>10/06/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=48" target="_blank">Member Update</a> ... Thousands Heard Frederick Mann's Message!</p>
+
+<p><strong>10/06/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=47" target="_blank">Saturday Spotlight </a></p>
+
+<p><strong>10/05/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=46" target="_blank">Member Update</a> ... You've been Paid!</p>
+
+<p><strong>10/05/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=45" target="_blank">Friday Fun</a></p>
+
+<p><strong>10/04/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=44" target="_blank">Member Update</a> ... EXCITING announcement…</p>
+
+<p><strong>10/04/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=43" target="_blank">Thursday Thoughts</a></p>
+
+<p><strong>10/03/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=42" target="_blank">Member Update</a> ... The Excitement Brewing at Profit Clicking!</p>
+
+<p><strong>10/03/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=41" target="_blank">Wednesday's Wisdom</a></p>
+
+<p><strong>10/02/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=40" target="_blank">Member Update</a> ... Check Out The New Dashboard Features!</p>
+
+<p><strong>10/02/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=39" target="_blank">Motivational Tuesday!</a></p>
+
+<p><strong>9/30/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=37" target="_blank">Member Update</a> ... Have you seen the Profit Clicking Banners yet?</p>
+
+<p><strong>9/30/2012 08:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=36" target="_blank">Sunday Strategies!</a></p>
+
+<p><strong>9/30/2012 06:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=38" target="_blank">Sunday Spotlight</a></p>
+
+<p><strong>9/29/2012 08:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=35" target="_blank">Member Update</a> ... Happy Saturday! ... Improvements at Profit Clicking</p>
+
+<p><strong>9/28/2012 08:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=34" target="_blank">Fun Friday!</a></p>
+
+<p><strong>9/27/2012 07:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=33" target="_blank">Member Update</a> ... Things are happening in Profit Clicking!</p>
+
+<p><strong>9/27/2012 06:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=32" target="_blank">Thursday's Thought</a></p>
+
+<p><strong>9/24/2012 12:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=30" target="_blank">Member Update</a> ... New Helpdesk! </p>
+
+<p><strong>9/24/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=29" target="_blank">Motivational Monday</a></p>
+
+<p><strong>9/23/2012 21:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=31" target="_blank">Sunday Strategies</a></p>
+
+<p><strong>9/22/2012 23:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=28" target="_blank">Saturday Spotlight</a></p>
+
+<p><strong>9/21/2012 23:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=27" target="_blank">Member Update</a> ... Today's Daily Sales Profit </p>
+
+<p><strong>9/21/2012 23:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=26" target="_blank">Fun Friday!</a></p>
+
+<p><strong>9/20/2012 23:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=25" target="_blank">Member Update</a> ... Withdrawals are now LIVE! </p>
+
+<p><strong>9/20/2012 19:00 CEST: &nbsp;Thursday's Thoughts!</strong><br/>
+By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest;<br />
+and third by experience, which is the bitterest.
+<br/>
+<i>Confucius</i>
+<br/>
+A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
+<br/>
+<i>Moliere</i>
+</p>
+
+<p><strong>9/18/2012 23:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=24" target="_blank">Member Update</a> ... Exciting news! Within the next 24 hours, members will be able to make a daily withdrawal from their wallet!</p>
+
+<p><strong>9/17/2012 19:00 CEST: &nbsp;Motivational Message!</strong><br/>
+"All the adversity I've had in my life, all my troubles and obstacles, have strengthened me...<br/>
+You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you."<br/>
+<i>Walt Disney</i></p>
+
+<p><strong>9/17/2012 19:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=23" target="_blank">Member Update</a> ... Help is just a click away</p>
+
+<p><strong>9/16/2012 19:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=22" target="_blank">Member Update</a> ... All daily profits starting on September 16th, 2012 12:00 AM server time</p>
+
+<p><strong>9/15/2012 23:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=21" target="_blank">Member Update</a> ... CLARIFICATION </p>
+
+<p><strong>9/13/2012 23:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=20" target="_blank">Member Update</a> ... Increased Earnings, Just "Clicks" Away! ... Commission Run Processing Time</p>
+
+<p><strong>9/12/2012 09:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=19" target="_blank">Member Update</a> ... Income starting within 24 hours ... Viewing Ads</p>
+
+<p><strong>9/11/2012 23:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=18" target="_blank">Member Update</a> ... Daily Update ... BEWARE of rumors!</p>
+
+<p><strong>9/10/2012 20:00 CEST: &nbsp;Motivational Monday!</strong><br/>
+Every great dream begins with a dreamer. Always remember, you have within you<br/>
+the strength, the patience, and the passion to reach for the stars to change the world.<br/>
+<i>Harriet Tubman</i></p>
+
+<p><strong>9/10/2012 12:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=17" target="_blank">Member Update</a> ... 72 Hour Update!</p>
+
+<p><strong>9/9/2012 18:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=16" target="_blank">Member Update</a> ... Exclusive Members Only Features</p>
+
+<p><strong>9/9/2012 06:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=15" target="_blank">Member Update</a> ... How to use your new Profit Clicking Wallet</p>
+
+<p><strong>9/8/2012 00:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=14" target="_blank">Member Update</a> ... Launch Announcement!</p>
+
+<p><strong>9/6/2012 18:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=13" target="_blank">Member Update</a> ... Recent Update Highlights</p>
+
+<p><strong>9/6/2012 06:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=12" target="_blank">Member Services Update</a> ... Launch Functionality Timelines.</p>
+
+<p><strong>9/5/2012 23:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=11" target="_blank">Member Update</a> ... The Final Countdown Begins! ... Why is Profit Clicking so different?</p>
+
+<p><strong>9/3/2012 18:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=10" target="_blank">Member Update</a> ... Would you like to learn more about Profit Clicking?</p>
+
+<p><strong>8/31/2012 20:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=9" target="_blank">Member Update</a> ... The Time is Near! ... New to online marketing?</p>
+
+<p><strong>8/30/2012 19:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=8" target="_blank">Member Update</a> ... Follow our progress! ...
+Ensure you white-list <a href="mailto:noreply@profitclicking.com">noreply@profitclicking.com</a> to avoid missing emailed updates.</p>
+
+<p><strong>8/29/2012 07:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=7" target="_blank">Support Department Update</a> ... understanding the migration process and SolidTrust Pay ACH.</p>
+
+<p><strong>8/27/2012 20:00 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=6" target="_blank">Support Department Update</a> ... currently in the process of migrating over to Profit Clicking.</p>
+
+<p><strong>8/27/2012 02:06 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=5" target="_blank">Click Here for a New Update!</a> ... thank you for your continued trust and patience.</p>
+
+<p><strong>8/24/2012 07:45 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=3" target="_blank">Click Here for Answers to the most asked questions</a></p>
+
+<p><strong>8/23/2012 20:30 CEST:</strong>&nbsp; URGENT UPDATE: There were some technical challenges during the completion of yesterday's daily earnings. Please note that IT is scanning members' dashboards and your totals may change to reflect the correct configuration of earnings. Remember that earnings were supposed to be paid only for positions active up until 8/20 12:05. On 8/21 we started our migration process, so payouts will NOT be made on that day. Thank you for your patience!</p>
+
+<p><strong>8/23/2012 00:05 CEST:</strong>&nbsp; <a href="http://www.profitclicking.com/announcements/?num=2" target="_blank">Fredrick Mann Retired!</a> JBP members are in good hands with the migration to Profit Clicking... Nothing changes, everybody wins!  Click the link for more information!</p>
+
+<p><strong>8/22/2012 03:00 CEST:</strong>&nbsp; Please note that some of the numbers and totals in the dashboard are not correct.  We are working
+on getting accurate information displayed. Thank you for your patience.</p>
+</div>
+
+<!-- ********** -->
+
+</div> <!--  accordion1 set end -->
+
+			<!-- Last edited on 2012-09-22 02:51:02 PM By: resham -->
+			<!-- Last edited on 2012-09-22 11:51:29 PM By: arungtm -->
+			<!-- Last edited on 2012-09-28 06:02:51 AM By: resham -->
+			<!-- Last edited on 2012-09-29 07:27:11 PM By: resham -->
+			<!-- Last edited on 2012-09-30 09:02:10 AM By: resham -->
+			<!-- Last edited on 2012-09-30 11:04:09 AM By: resham -->
+			<!-- Last edited on 2012-10-01 13:00:00 PM By: alfred -->
+			<!-- Last edited on 2012-10-02 09:02:09 PM By: resham -->
+			<!-- Last edited on 2012-10-02 09:25:31 PM By: resham -->
+			<!-- Last edited on 2012-10-04 01:37:36 AM By: arungtm -->
+			<!-- Last edited on 2012-10-04 01:46:08 AM By: arungtm -->
+			<!-- Last edited on 2012-10-04 10:51:56 AM By: resham -->
+			<!-- Last edited on 2012-10-04 03:56:26 PM By: resham -->
+			<!-- Last edited on 2012-10-04 04:11:41 PM By: resham -->
+			<!-- Last edited on 2012-10-05 11:03:14 AM By: resham -->
+			<!-- Last edited on 2012-10-06 08:49:26 AM By: arungtm -->
+			<!-- Last edited on 2012-10-06 08:56:39 AM By: arungtm -->
+			<!-- Last edited on 2012-10-06 02:47:47 PM By: resham -->
+			<!-- Last edited on 2012-10-07 07:04:30 AM By: resham -->
+			<!-- Last edited on 2012-10-08 03:45:47 PM By: resham -->
+			<!-- Last edited on 2012-10-09 09:57:37 AM By: resham -->
+			<!-- Last edited on 2012-10-10 07:33:58 AM By: resham -->
+			<!-- Last edited on 2012-10-10 02:54:24 PM By: resham -->
+			<!-- Last edited on 2012-10-11 07:48:46 AM By: resham -->
+			<!-- Last edited on 2012-10-12 08:44:17 AM By: resham -->
+			<!-- Last edited on 2012-10-13 08:23:34 AM By: resham -->
+			<!-- Last edited on 2012-10-14 09:30:10 AM By: resham -->
+			<!-- Last edited on 2012-10-15 08:50:14 AM By: resham -->
+			<!-- Last edited on 2012-10-16 09:41:32 AM By: resham -->
+			<!-- Last edited on 2012-10-17 08:57:08 AM By: resham -->
+			<!-- Last edited on 2012-10-18 09:38:55 AM By: resham -->
+			<!-- Last edited on 2012-10-19 09:57:46 AM By: resham -->
+			<!-- Last edited on 2012-10-20 10:05:40 AM By: resham -->
+			<!-- Last edited on 2012-10-20 10:06:01 AM By: resham -->
+        </div>
+
+    </div>
+
+
+<!-- /MESSAGEWALL-->
+                    </div>
+    </div>
+                				</div>
+			</div>
+
+		<div class="bottom_frame"></div>
+		<div class="bottom_logo"></div>
+    </body>
+</html>
